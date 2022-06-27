@@ -1,0 +1,1 @@
+This directory contains introductory tasks such as string output concat, minding edges.
